@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "@iotexproject/iotex-address-ts": "^1.0.4",
-    "@metamask/rpc-errors": "^6.3.1",
+    "@metamask/rpc-errors": "^7.0.2",
     "@metamask/snaps-sdk": "^6.3.0",
     "bech32": "^2.0.0",
     "buffer": "^6.0.3"
